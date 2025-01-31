@@ -1,0 +1,14 @@
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\bin\Debug\net8.0\DeMa.exe
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\bin\Debug\net8.0\DeMa.deps.json
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\bin\Debug\net8.0\DeMa.runtimeconfig.json
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\bin\Debug\net8.0\DeMa.dll
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\bin\Debug\net8.0\DeMa.pdb
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.AssemblyInfo.cs
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.dll
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\refint\DeMa.dll
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.pdb
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\DeMa.genruntimeconfig.cache
+C:\Users\Monster\Desktop\DeMa\DeMa\DeMa\obj\Debug\net8.0\ref\DeMa.dll
